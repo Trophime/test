@@ -1,0 +1,3 @@
+[submodule "kernel"]
+	path = kernel
+	url = http://git.salome-platform.org/gitpub/modules/kernel.git
